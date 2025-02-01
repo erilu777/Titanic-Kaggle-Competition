@@ -1,7 +1,8 @@
 # Titanic Survival Prediction
 
 ## Overview
-Solution for the [Titanic Machine Learning Competition](https://www.kaggle.com/competitions/titanic) on Kaggle, scoring 0.77990 on the leaderboard.
+- Solution for the [Titanic Machine Learning Competition](https://www.kaggle.com/competitions/titanic) on Kaggle, scoring 0.77990
+- Primarily done to practice some basic EDA and predicting using R
 
 ## Setup
 1. Download competition data from [Kaggle](https://www.kaggle.com/competitions/titanic/data)
